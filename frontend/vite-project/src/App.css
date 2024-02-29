@@ -1,0 +1,5 @@
+/* css for gradient */
+
+.boxGradient{
+  background-image: linear-gradient(to right, rgb(238, 169, 104) , rgb(95, 95, 87));
+}
